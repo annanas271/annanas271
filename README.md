@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi there,</h1>
 
-<!--
-**mianjaro/mianjaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Mia, and I make stuff from time to time</p>
+ 
+<p>Contact:</p>
+<ul>
+  <li><a href="https://roblox.com/users/profile?username=mianjaro">Roblox</a></li>
+  <li><a href="mailto:mianjaro@pm.me">Email</a></li>
+</ul>
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mianjaro&show_icons=true&count_private=true&hide=prs,issues&title_color=F0F3F6&text_color=F0F3F6&icon_color=7A828E&bg_color=0A0C10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- LOOKS BEST ON DARK HIGH CONTRAST THEME -->
