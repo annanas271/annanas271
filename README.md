@@ -1,6 +1,6 @@
 <h1>Hi there,</h1>
 
-<p>I'm Miaroshi, I make stuff from time to time</p>
+<p>I'm Mia, I make stuff from time to time</p>
  
 <p>Contact:</p>
 <ul>
