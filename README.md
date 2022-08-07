@@ -1,9 +1,9 @@
-<h1>Hi there,</h1>
+<h1>hi there,</h1>
 
-<p>I'm Mia, I make stuff from time to time</p>
+<p>i'm mia, I make stuff from time to time</p>
  
-<p>Contact:</p>
+<p>contact:</p>
 <ul>
-  <li><a href="https://twitter.com/miaroshi_">Twitter</a></li>
-  <li><a href="mailto:miaroshi@pm.me">Email</a></li>
+  <li><a href="https://twitter.com/miaroshi_">twitter</a></li>
+  <li><a href="mailto:miaroshi@pm.me">email</a></li>
 </ul>
