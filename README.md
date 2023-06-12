@@ -1,1 +1,1 @@
-cba - will actually put something here later
+<p float="left"> <img src="4.jpg" width="250" align="left"> <p float="left"> <samp> anna <br>i like making things <br><br>languages: <a href="https://www.rust-lang.org/">rust</a>, <a href="https://www.lua.org/">lua</a>, <a href="https://www.python.org/">python</a> <br><br><a href="https://jackli.dev/discord">tumblr</a> <br><br>yoinked from <a href="https://github.com/jckli">/jckli</a> </samp> </p></p>
