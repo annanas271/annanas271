@@ -32,7 +32,7 @@ def crop_image(image_name):
 
 
 def upload_image(image_name):
-    token = os.getenv("GH_TOKEN")
+    token = os.getenv("ACCESS_TOKEN")
 
     repo = Github(token).get_repo("anna-anarchy/anna-anarchy")
 
@@ -52,7 +52,7 @@ def upload_image(image_name):
 
 
 def update_readme(image_name):
-    token = os.getenv("GH_TOKEN")
+    token = os.getenv("ACCESS_TOKEN")
 
     repo = Github(token).get_repo("anna-anarchy/anna-anarchy")
 
@@ -61,9 +61,7 @@ def update_readme(image_name):
     repo.update_file(
         "README.md",
         "Update README.md",
-        '<p float="left"> <img src="images/'
-        + image_name
-        + '" width="250" align="left"> <p float="left"> <samp> anna <br>i like making things <br><br>languages: <a href="https://www.rust-lang.org/">rust</a>, <a href="https://www.lua.org/">lua</a>, <a href="https://www.python.org/">python</a> <br><br><a href="https://jackli.dev/discord">tumblr</a> <br><br>yoinked from <a href="https://github.com/jckli">/jckli</a> </samp> </p></p>',
+        '<p float="left"> <img src="images/' + image_name + '" width="250" align="left"> <p float="left"> <samp> anna <br>i like making things <br><br>languages: <a href="https://www.rust-lang.org/">rust</a>, <a href="https://www.lua.org/">lua</a>, <a href="https://www.python.org/">python</a> <br><br><a href="https://tumblr.com/anna-anarchy">tumblr</a> <br><br>yoinked from <a href="https://github.com/jckli">/jckli</a> </samp> </p></p>',
         readme.sha,
         branch="main",
     )
