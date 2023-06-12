@@ -32,7 +32,7 @@ def crop_image(image_name):
 
 
 def upload_image(image_name):
-    token = os.getenv("GITHUB_TOKEN")
+    token = os.getenv("GH_TOKEN")
 
     repo = Github(token).get_repo("anna-anarchy/anna-anarchy")
 
@@ -52,7 +52,7 @@ def upload_image(image_name):
 
 
 def update_readme(image_name):
-    token = os.getenv("GITHUB_TOKEN")
+    token = os.getenv("GH_TOKEN")
 
     repo = Github(token).get_repo("anna-anarchy/anna-anarchy")
 
