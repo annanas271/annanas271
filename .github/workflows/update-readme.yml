@@ -25,4 +25,4 @@ jobs:
       - name: Update README
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run: python update_readme.py
+        run: python3 ./.github/workflows/update_readme.py
